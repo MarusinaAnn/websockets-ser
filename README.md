@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "8. EventSource, Websockets"
 
-Frontend: https://github.com/Unker/ahj-homeworks-chat-web.git
+Frontend: https://github.com/MarusinaAnn/websockets-page.git
 
 Правила сдачи задания:
 
