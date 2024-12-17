@@ -1,0 +1,25 @@
+{
+  "name": "ahj-homeworks-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "forever server.js",
+    "watch": "forever -w server.js"
+  },
+  "author": "Unker",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "forever": "^2.0.0",
+    "http-event-stream": "^0.2.0",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
+    "koa-combine-routers": "^4.0.2",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.14.1"
+  }
+}
